@@ -1,0 +1,6 @@
+- username: "user1@example.com"
+  password: "password123"
+  expected: true
+- username: "user2@example.com"
+  password: "wrongpass"
+  expected: false

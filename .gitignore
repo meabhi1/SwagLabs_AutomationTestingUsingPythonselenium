@@ -1,0 +1,50 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Pytest cache
+.pytest_cache/
+
+# HTML reports
+#Reports/report.html
+#Reports/*.html
+#
+## Screenshots
+#Screenshots/
+#screenshots/
+
+# Logs
+#Logs/
+#logs/
+#*.log
+
+# Excel temporary files
+~$*.xlsx
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE settings
+.vscode/
+.idea/
+.test_excelddt.py
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Build files
+build/
+dist/
+*.egg-info/
