@@ -37,7 +37,7 @@ def setup(browser):
         
         driver = webdriver.Edge(options=edge_options)
 
-      elif browser == 'chrome':
+     elif browser == 'chrome':
            driver=webdriver.Chrome()
         
      else:
