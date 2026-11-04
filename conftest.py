@@ -36,6 +36,9 @@ def setup(browser):
         edge_options.add_argument("--disable-features=PasswordLeakDetection")
         
         driver = webdriver.Edge(options=edge_options)
+
+      elif browser == 'chrome':
+           driver=webdriver.Chrome()
         
      else:
         # Fallback or default browser configuration if none matches
