@@ -367,3 +367,73 @@
 2026-11-03 18:59:09 : INFO : -- Started login
 2026-11-03 18:59:10 : ERROR : -- Login failed
 2026-11-03 18:59:10 : INFO : -- Screenshot saved: C:\Users\Abhijeet Jha\OneDrive\Desktop\website automation testing\Screenshots\Login\login_Failed.png
+2026-11-04 19:47:22 : INFO : -- Opened site successfully
+2026-11-04 19:47:23 : INFO : -- Started login
+2026-11-04 19:47:24 : ERROR : -- Login failed
+2026-11-04 19:47:24 : INFO : -- Screenshot saved: C:\Users\Abhijeet Jha\OneDrive\Desktop\website automation testing\Screenshots\Login\login_Failed.png
+2026-11-04 19:47:28 : WARNING : The geckodriver version (0.36.0) detected in PATH at C:\Users\Abhijeet Jha\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\seleniumbase\drivers\geckodriver.exe might not be compatible with the detected firefox version (159.0); currently, geckodriver 0.37.1 is recommended for firefox 159.*, so it is advised to delete the driver in PATH and retry
+2026-11-04 19:47:36 : INFO : -- Opened site successfully
+2026-11-04 19:47:37 : INFO : -- Started login
+2026-11-04 19:47:38 : ERROR : -- Login failed
+2026-11-04 19:47:38 : INFO : -- Screenshot saved: C:\Users\Abhijeet Jha\OneDrive\Desktop\website automation testing\Screenshots\Login\login_Failed.png
+2026-11-04 19:47:41 : WARNING : The geckodriver version (0.36.0) detected in PATH at C:\Users\Abhijeet Jha\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\seleniumbase\drivers\geckodriver.exe might not be compatible with the detected firefox version (159.0); currently, geckodriver 0.37.1 is recommended for firefox 159.*, so it is advised to delete the driver in PATH and retry
+2026-11-04 19:47:51 : INFO : -- Login successful
+2026-11-04 19:47:51 : INFO : -- Started Add to Cart test
+2026-11-04 19:47:51 : INFO : -- Product clicked successfully
+2026-11-04 19:47:51 : INFO : -- Cart count is: 1
+2026-11-04 19:47:51 : INFO : -- Product added to cart successfully
+2026-11-04 19:47:52 : INFO : -- Opened cart page
+2026-11-04 19:47:52 : INFO : -- Cart page opened successfully
+2026-11-04 19:47:52 : INFO : -- Add to Cart test passed
+2026-11-04 19:47:55 : WARNING : The geckodriver version (0.36.0) detected in PATH at C:\Users\Abhijeet Jha\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\seleniumbase\drivers\geckodriver.exe might not be compatible with the detected firefox version (159.0); currently, geckodriver 0.37.1 is recommended for firefox 159.*, so it is advised to delete the driver in PATH and retry
+2026-11-04 19:48:19 : WARNING : The geckodriver version (0.36.0) detected in PATH at C:\Users\Abhijeet Jha\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\seleniumbase\drivers\geckodriver.exe might not be compatible with the detected firefox version (159.0); currently, geckodriver 0.37.1 is recommended for firefox 159.*, so it is advised to delete the driver in PATH and retry
+2026-11-04 19:48:35 : INFO : --- Starting Testcase: test_product ---
+2026-11-04 19:48:35 : INFO : Navigating to product details page.
+2026-11-04 19:48:36 : INFO : Adding product to cart.
+2026-11-04 19:48:37 : INFO : Checking shopping cart badge value: 1
+2026-11-04 19:48:37 : INFO : Assertion passed: Product added successfully.
+2026-11-04 19:48:37 : INFO : Removing product from cart.
+2026-11-04 19:48:37 : INFO : Navigating back to main inventory page.
+2026-11-04 19:48:37 : INFO : Assertion passed: Successfully returned to inventory page.
+2026-11-04 19:48:37 : INFO : Filtering product list by value: 2
+2026-11-04 19:48:37 : INFO : Filter applied successfully. Test passed.
+2026-11-04 19:51:17 : INFO : -- Opened site successfully
+2026-11-04 19:51:18 : INFO : -- Started login
+2026-11-04 19:51:19 : INFO : -- Logged in successfully
+2026-11-04 19:51:23 : WARNING : The geckodriver version (0.36.0) detected in PATH at C:\Users\Abhijeet Jha\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\seleniumbase\drivers\geckodriver.exe might not be compatible with the detected firefox version (159.0); currently, geckodriver 0.37.1 is recommended for firefox 159.*, so it is advised to delete the driver in PATH and retry
+2026-11-04 19:51:46 : WARNING : The geckodriver version (0.36.0) detected in PATH at C:\Users\Abhijeet Jha\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\seleniumbase\drivers\geckodriver.exe might not be compatible with the detected firefox version (159.0); currently, geckodriver 0.37.1 is recommended for firefox 159.*, so it is advised to delete the driver in PATH and retry
+2026-11-04 19:52:05 : WARNING : The geckodriver version (0.36.0) detected in PATH at C:\Users\Abhijeet Jha\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\seleniumbase\drivers\geckodriver.exe might not be compatible with the detected firefox version (159.0); currently, geckodriver 0.37.1 is recommended for firefox 159.*, so it is advised to delete the driver in PATH and retry
+2026-11-04 19:52:13 : INFO : --- Starting Testcase: test_product ---
+2026-11-04 19:52:13 : INFO : Navigating to product details page.
+2026-11-04 19:52:14 : INFO : Adding product to cart.
+2026-11-04 19:52:14 : INFO : Checking shopping cart badge value: 1
+2026-11-04 19:52:14 : INFO : Assertion passed: Product added successfully.
+2026-11-04 19:52:14 : INFO : Removing product from cart.
+2026-11-04 19:52:14 : INFO : Navigating back to main inventory page.
+2026-11-04 19:52:14 : INFO : Assertion passed: Successfully returned to inventory page.
+2026-11-04 19:52:14 : INFO : Filtering product list by value: 2
+2026-11-04 19:52:14 : INFO : Filter applied successfully. Test passed.
+2026-11-04 19:54:15 : INFO : -- Opened site successfully
+2026-11-04 19:54:31 : INFO : -- Started login
+2026-11-04 19:54:31 : INFO : -- Logged in successfully
+2026-11-04 19:54:34 : WARNING : The geckodriver version (0.36.0) detected in PATH at C:\Users\Abhijeet Jha\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\seleniumbase\drivers\geckodriver.exe might not be compatible with the detected firefox version (159.0); currently, geckodriver 0.37.1 is recommended for firefox 159.*, so it is advised to delete the driver in PATH and retry
+2026-11-04 19:54:50 : INFO : -- Login successful
+2026-11-04 19:54:50 : INFO : -- Started Add to Cart test
+2026-11-04 19:54:50 : INFO : -- Product clicked successfully
+2026-11-04 19:54:50 : INFO : -- Cart count is: 1
+2026-11-04 19:54:50 : INFO : -- Product added to cart successfully
+2026-11-04 19:54:50 : INFO : -- Opened cart page
+2026-11-04 19:54:50 : INFO : -- Cart page opened successfully
+2026-11-04 19:54:50 : INFO : -- Add to Cart test passed
+2026-11-04 19:54:54 : WARNING : The geckodriver version (0.36.0) detected in PATH at C:\Users\Abhijeet Jha\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\seleniumbase\drivers\geckodriver.exe might not be compatible with the detected firefox version (159.0); currently, geckodriver 0.37.1 is recommended for firefox 159.*, so it is advised to delete the driver in PATH and retry
+2026-11-04 19:55:06 : WARNING : The geckodriver version (0.36.0) detected in PATH at C:\Users\Abhijeet Jha\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\seleniumbase\drivers\geckodriver.exe might not be compatible with the detected firefox version (159.0); currently, geckodriver 0.37.1 is recommended for firefox 159.*, so it is advised to delete the driver in PATH and retry
+2026-11-04 19:55:15 : INFO : --- Starting Testcase: test_product ---
+2026-11-04 19:55:15 : INFO : Navigating to product details page.
+2026-11-04 19:55:15 : INFO : Adding product to cart.
+2026-11-04 19:55:15 : INFO : Checking shopping cart badge value: 1
+2026-11-04 19:55:15 : INFO : Assertion passed: Product added successfully.
+2026-11-04 19:55:15 : INFO : Removing product from cart.
+2026-11-04 19:55:15 : INFO : Navigating back to main inventory page.
+2026-11-04 19:55:15 : INFO : Assertion passed: Successfully returned to inventory page.
+2026-11-04 19:55:15 : INFO : Filtering product list by value: 2
+2026-11-04 19:55:15 : INFO : Filter applied successfully. Test passed.

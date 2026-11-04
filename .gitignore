@@ -36,6 +36,7 @@ env/
 .vscode/
 .idea/
 .test_excelddt.py
+
 # OS files
 .DS_Store
 Thumbs.db
