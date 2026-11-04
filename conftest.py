@@ -16,7 +16,8 @@ def setup(browser):
         firefox_options.set_preference("signon.autofillForms", False)
         firefox_options.set_preference("signon.generation.enabled", False)
         firefox_options.set_preference("signon.management.page.fileImport.enabled", False)
-        
+        firefox_options.binary_location = r"C:\Program Files\Mozilla Firefox"
+
         driver = webdriver.Firefox(options=firefox_options)
         
      elif browser == 'edge':
