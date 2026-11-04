@@ -1,7 +1,7 @@
 
 from pages.Login_page import LoginPage
 from logs.customeLogger import LoggGen
-from test_excelddt import TestData
+
 import os
 import pytest
 import openpyxl
