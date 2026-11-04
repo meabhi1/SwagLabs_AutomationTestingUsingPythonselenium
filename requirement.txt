@@ -2,7 +2,6 @@
 selenium
 pytest
 pytest-html
-os
 pandas
 openpyxl
 PyYAML
